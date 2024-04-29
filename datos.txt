@@ -1,0 +1,17 @@
+arduino mejor si tiene pines negro rojo y blanco
+driver para motor dc
+motor dc
+mini proto
+
+
+Sensor Ultra Izq
+trigger 12
+echo 11
+
+Sensor Ultra Der
+echo 8
+trigger 7 
+
+Sensor Ultra Frente
+echo 10
+trigger 9
